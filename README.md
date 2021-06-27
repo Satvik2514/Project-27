@@ -1,2 +1,2 @@
-# Project-27
-The 27th Project of WhiteHat Junior
+# p5.play-boilerplate
+Boiler plate for p5.play
